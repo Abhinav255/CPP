@@ -1,0 +1,14 @@
+What is the difference between OOP and POP?
+
+OOP:-
+
+OOP stands for Object-Oriented Programming.
+OOP is object based.
+OOP optimizes memory management.
+It has better security.
+
+POP:-
+
+POP stands for Procedural Oriented Programming.
+POP is Function based.
+No data hiding present. Data is globally accessible.
